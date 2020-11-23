@@ -1,8 +1,1 @@
-## Hi 👋, I'm Ethem.
-
-I love to code bots and automations. So Python is my favourite language as you can guess 🙂.
-\
-I'm interested in reverse engineering websites/APIs, building apps for reverse engineered websites.
-\
-\
-[![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
+![](https://images.unsplash.com/photo-1605445457891-49696cba2d68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
