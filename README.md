@@ -1,7 +1,5 @@
-[![img](https://images.unsplash.com/photo-1495305730668-3d13ae2a3250?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)](https://unsplash.com/photos/1v-snxcyHHk)
+![2021-10-16-001747_1920x1080_scrot](https://user-images.githubusercontent.com/48857416/137554706-399715b9-fbba-43f0-889c-47f77375e808.png)
 
 #### Hi there
-
-
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ethmtrgt)
